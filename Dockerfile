@@ -1,5 +1,5 @@
 # Pull base image
-FROM openjdk:11.0.1
+FROM openjdk:8-jdk-alpine
 
 # Env variables
 ENV SCALA_VERSION 2.12.7
